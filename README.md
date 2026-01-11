@@ -1,1 +1,2 @@
-# pythonAssignment1
+# Assignment 1 - Module 2: Basic Python Concepts This repository contains two Python scripts for Assignment 1. ## Task 1: Perform Basic Mathematical Operations - Takes two numbers as input. - Performs addition, subtraction, multiplication, and division. - Displays the results.
+## Task 2: Create a Personalized Greeting - Takes first name and last name as input. - Concatenates them into a full name. - Prints a personalized greeting message.
