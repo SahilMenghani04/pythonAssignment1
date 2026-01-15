@@ -1,12 +1,25 @@
-Num1 = int(input("enter first no:",))
-Num2 = int(input("enter second no:",))
+#1 performing basic mathametical operation in python
 
-add = (Num1+Num2)
-sub = (Num1-Num2)
-div = (Num1/Num2)
-mult =(Num1*Num2)
+number1 = float(input("Enter First NO:",))
+number2 = float(input("Enter Second NO:",))
 
-print("addition",add)
-print("substraction:",sub)
-print("division:",div)
-print("multiplication:",mult)
+Addition = number1 + number2
+subtraction = number1 - number2
+multiplication = number1 * number2
+division = number1/number2
+
+print("Addition:",Addition)
+print("Subtraction:",subtraction)
+print("Multiplication:",multiplication)
+
+print("Division:",division)
+
+
+#2 creating persenolized greeting
+
+first_name = input("enter your first name :",)
+last_name = input("enter your last name :",)
+
+full_name = first_name +""+ last_name
+
+print("Hello ,",full_name,"! welcome to the python program")
